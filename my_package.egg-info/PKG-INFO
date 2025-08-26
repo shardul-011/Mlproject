@@ -1,0 +1,15 @@
+Metadata-Version: 2.4
+Name: my_package
+Version: 0.1.0
+Summary: My Python package
+Author: Shardul
+Author-email: singhshardul64@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: scikit-learn
+Requires-Dist: seaborn
+Requires-Dist: matplotlib
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
+Dynamic: summary
