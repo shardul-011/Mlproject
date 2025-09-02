@@ -1,5 +1,5 @@
-Metadata-Version: 2.4
-Name: my_package
+Metadata-Version: 2.1
+Name: my-package
 Version: 0.1.0
 Summary: My Python package
 Author: Shardul
@@ -9,7 +9,3 @@ Requires-Dist: numpy
 Requires-Dist: scikit-learn
 Requires-Dist: seaborn
 Requires-Dist: matplotlib
-Dynamic: author
-Dynamic: author-email
-Dynamic: requires-dist
-Dynamic: summary
